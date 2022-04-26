@@ -1,9 +1,9 @@
-title:              Web  Multimedia Content Blog
+title:              Web  Multimedia Content
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
-author:             Web  Multimedia Content Blog
+author:             Joao Carreira
 baseurl:            ""
-url:                "https://webmultimedia.github.io"
+url:                "https://webmultimediablog.github.io"
 
 # Social Profiles
 twitter_username:   
